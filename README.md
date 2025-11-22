@@ -5,6 +5,8 @@ Script Launcher + Rofi
 1. alternatively, Launch scripts in `x-terminal-emulator`
 1. Save launch history and List scripts in recent used order
 
+![Screenshot!](screenshot-01.png)
+
 
 # REQUIREMENTS
 
