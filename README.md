@@ -8,8 +8,8 @@ Script Launcher + Rofi
 
 # REQUIREMENTS
 
-1. [Perl 5.40+][https://www.perl.org/]
-1. [Rofi 1.7.5+][https://github.com/davatorium/rofi]
+1. [Perl 5.40+](https://www.perl.org/)
+1. [Rofi 1.7.5+](https://github.com/davatorium/rofi)
 
 
 # SYNOPSIS
@@ -35,3 +35,8 @@ List content of SCRIPT_DIRS and ask to select:
   -T XTERM_COMMAND
 ```
 
+
+# COPYRIGHT & LICENSE
+
+1. MIT License (See `LICENSE`)
+1. Written by Jonghyouk Yun, 2025.
